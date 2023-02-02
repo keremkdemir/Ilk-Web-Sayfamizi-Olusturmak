@@ -1,0 +1,2 @@
+# HTML Kullanarak Oluşturduğum İlk Web Sitesi
+[Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) ve [Insider](https://useinsider.com/) kapsamında oluşturulan Insider Code Academy boot camp i için [Patika.dev](https://www.patika.dev/tr) sitesinden aldığım eğitimle birlikte bu siteyi oluşturdum.
